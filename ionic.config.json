@@ -1,0 +1,7 @@
+{
+  "name": "SistemaRotas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
